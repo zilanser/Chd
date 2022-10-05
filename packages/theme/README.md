@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Chd
-chd's blog
-=======
 # Gungnir V2
 
 [![npm](https://img.shields.io/npm/v/vuepress-theme-gungnir/next.svg?style=flat-square&logo=npm)](https://www.npmjs.com/package/vuepress-theme-gungnir/v/next) [![docs](https://img.shields.io/badge/Docs-Gungnir-26A2FF?style=flat-square)](https://v2-vuepress-theme-gungnir.vercel.app/docs/) [![license](https://img.shields.io/badge/License-Apache--2.0-green?style=flat-square)](LICENSE) [![awesome-vuepress](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@a7b5b7805ecc00b3396acb35022cf6e2c0699e03/media/badge-flat.svg)](https://github.com/vuepress/awesome-vuepress/blob/main/v2.md#themes)
@@ -112,4 +108,3 @@ No further update expected for the following previous versions:
 VuePress theme Gungnir is [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) licensed, see the [LICENSE](LICENSE) file for details.
 
 Plugins are licensed by MIT.
->>>>>>> a18d75d (创建项目)

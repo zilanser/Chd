@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -102,3 +103,31 @@ dist
 
 # TernJS port file
 .tern-port
+=======
+# VuePress files
+docs/.vuepress/.temp/
+docs/.vuepress/.cache/
+docs/.vuepress/dist/
+
+# Dist files
+dist/
+lib/
+
+# Test temp files
+**/__fixtures__/.temp/
+
+# Node modules
+node_modules/
+
+# MacOS Desktop Services Store
+.DS_Store
+
+# Log files
+*.log
+
+# Typescript build info
+*.tsbuildinfo
+
+# Editor
+.vscode/
+>>>>>>> a18d75d (创建项目)
