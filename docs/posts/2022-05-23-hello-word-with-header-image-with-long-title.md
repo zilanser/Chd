@@ -1,6 +1,6 @@
 ---
 layout: Post
-title: Hello Word with a long title, it should require two lines to display
+title: 操作系统
 subtitle: A Test Post with Comment Disabled
 author: Renovamen
 date: 2022-05-23

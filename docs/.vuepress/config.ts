@@ -71,16 +71,12 @@ export default defineUserConfig({
 
     // personal information
     personalInfo: {
-      name: "Gungnir",
-      avatar: "/img/avatar.jpeg",
-      description: "A blog theme for VuePress",
+      name: "C >> H >> D",
+      avatar: "/img/avatar.png",
+      description: "A blog of Chd",
       sns: {
-        github: "Renovamen",
-        linkedin: "xiaohan-zou-55bba0160",
-        facebook: "renovamen.zou",
-        twitter: "renovamen_zxh",
-        zhihu: "chao-neng-gui-su",
-        email: "renovamenzxh@gmail.com",
+        github: "zilanser",
+        email: "2462605609@qq.com",
         rss: "/rss.xml",
         // customized sns
         bilibili: {
@@ -183,7 +179,7 @@ export default defineUserConfig({
     },
 
     footer: `
-      &copy; <a href="https://github.com/Renovamen" target="_blank">Renovamen</a> 2018-2022
+      &copy; <a href="https://github.com/zilanser" target="_blank">zilanser</a> 2018-2022
       <br>
       Powered by <a href="https://v2.vuepress.vuejs.org" target="_blank">VuePress</a> &
       <a href="https://github.com/Renovamen/vuepress-theme-gungnir" target="_blank">Gungnir</a>
