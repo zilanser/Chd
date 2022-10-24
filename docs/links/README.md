@@ -8,7 +8,7 @@ links:
         url: https://blog.zxh.io
         img: /img/links/me.png
         desc: My blog
-        
+
   - title: Other Versions
     items:
       - sitename: VuePress 1
