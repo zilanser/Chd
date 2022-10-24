@@ -5,7 +5,7 @@ links:
   - title: Live Demos
     items:
       - sitename: ME?
-        url: https://blog.zxh.io
+        url: https://zilanser.github.io
         img: /img/links/me.png
         desc: My blog
 
