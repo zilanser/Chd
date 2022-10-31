@@ -8,7 +8,7 @@
     "clean": "pnpm --parallel --stream clean",
     "dev": "concurrently \"tsc -b tsconfig.build.json --watch\" \"pnpm run dev:copy\"",
     "dev:copy": "pnpm build:copy --watch",
-    "docs:build": "pnpm --filter=docs docs:build",
+    "docs:build": "vuepress build docs",
     "docs:clean": "pnpm --filter=docs docs:clean",
     "docs:dev": "vuepress dev docs --clean-cache",
     "docs:release": "pnpm build && pnpm docs:build",
